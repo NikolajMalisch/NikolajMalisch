@@ -1,6 +1,6 @@
 About me
 
-Hi, I'm Nikolaj, a DevOps Engineer with a 12-month full-time training in Cloud Computing and DevOps Engineering. 
+Hi, I'm Nikolaj, a Junior DevOps Engineer with a 12-month full-time training in Cloud Computing and DevOps Engineering. 
 
 I have a passion for programming and expertise in several programming languages,
 including Java, Golang, JavaScript, HTML, CSS, and Bash scripting.
